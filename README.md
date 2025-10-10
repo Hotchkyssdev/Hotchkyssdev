@@ -12,4 +12,4 @@
 ### Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hotchkyssdev&theme=youtube-dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hotchkyssdev)](https://github.com/Hotchkyssdev/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hotchkyssdev&layout=compact&theme=dark)
