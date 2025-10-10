@@ -1,3 +1,4 @@
+
 # Hey, I'm Gersom!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gersom-tom%C3%A1s-hotchkyss-359691320/)](https://www.linkedin.com/in/gersom-tom%C3%A1s-hotchkyss-359691320/)
@@ -12,3 +13,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hotchkyssdev&theme=youtube-dark)](https://git.io/streak-stats)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hotchkyssdev&layout=compact&theme=dark)
+
