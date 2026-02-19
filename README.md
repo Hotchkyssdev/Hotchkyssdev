@@ -8,6 +8,3 @@
 
 * I am a Software Developer from [Resistencia, Argentina](https://turismo.chaco.gob.ar/destinations/resistencia/) 🇦🇷
 * Techstack: `.html`, `.css`, `.js`, `.py`, `.java`, `.c`
-
-### Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hotchkyssdev&layout=pie)](https://github.com/Hotchkyssdev/github-readme-stats)
